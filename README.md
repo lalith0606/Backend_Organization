@@ -59,14 +59,8 @@ cp .env.example .env
 - `JWT_SECRET`: A secure random string for signing tokens.
 - `MASTER_DB_NAME`: Default is `master_db`.
 
-### 2. Running with Docker (Recommended)
 
-```bash
-docker-compose up --build
-```
-The API will be available at `http://localhost:8000`.
-
-### 3. Running Locally
+### 2. Running Locally
 
 **Install Dependencies**:
 ```bash
