@@ -127,3 +127,5 @@ Renaming `amazon` to `amazon_global`. The system automatically migrates the coll
 Deleting the organization, which removes the tenant collection and all associated metadata.
 ![Delete Organization](./images/delete.png)
 
+## High Level Flow
+![High Level Flow](<High Level Flow.jpeg>)
